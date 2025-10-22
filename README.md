@@ -16,5 +16,5 @@ This portfolio highlights some of my projects in thermal system design, CFD and 
   Created tools for data filtering and cross-referencing valve part numbers.
 
 ## Contact
-📧 raya.kouhi@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+📧 rayakouhi@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rayakouhi)
