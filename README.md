@@ -1,5 +1,3 @@
-# engineering-portfolio
-A collection of my mechanical engineering projects and design work
 # Raya Kouhi — Mechanical Engineering Portfolio
 
 I’m a Mechanical Engineering graduate from the University of Toronto with experience in design, simulation, and R&D.  
@@ -12,8 +10,11 @@ This portfolio highlights some of my projects in thermal system design, CFD and 
 - **Gate Valve FEA Analysis**  
   Performed static structural tests under 255 bar rated pressure using ANSYS.
 
-- **Automation with VBA & Python**  
-  Created tools for data filtering and cross-referencing valve part numbers.
+- **4-axis Desktop Milling Machine Design**  
+  Designed a 4-axis CNC milling machine for rapid prototyping.
+
+- **Destructive Testing Fixture Design & Analysis**  
+  Designed a test fixture in Siemens NX to simulate wind loading on composite panels and performed FEA in SimSolid to validate structural performance.
 
 ## Contact
 📧 rayakouhi@gmail.com  
