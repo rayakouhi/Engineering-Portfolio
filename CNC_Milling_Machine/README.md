@@ -5,3 +5,5 @@
 **Key Achievements:**  
 - Modeled all mechanical components in SolidWorks.  
 - Collaborated with a team of four to produce a complete CAD design, including a detailed 3D spindle assembly.  
+
+![Spindle Assembly](CNC_Design.png)  
