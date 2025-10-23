@@ -9,4 +9,4 @@
 ![Temperature_Control_System](Contour_Analysis.png)
 ![Temperature_Control_System](Contour_Analysis_2.png)
 ![Temperature_Control_System](Circuit_Diagrm.jpg)
-![Temperature_Control_System](CFD_results.mp4)
+![Temperature_Control_System](CFD_results.png)
