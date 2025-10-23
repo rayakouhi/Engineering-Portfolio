@@ -1,2 +1,7 @@
-# Gate Valve FEA
-Designed a 4-axis CNC milling machine for rapid prototyping. Modeled all components in SolidWorks and collaborated with a team to complete the full CAD design.
+# High-Pressure Gate Valve Structural Analysis
+
+**Objective:** Analyze the structural performance of a Class 1500, ¾” gate valve under high-pressure conditions.  
+
+**Key Achievements:**  
+- Modeled valve geometry in SolidWorks and performed FEA in ANSYS.  
+- Identified stress concentrations at thin sections and recommended geometry modifications to improve reliability.  
