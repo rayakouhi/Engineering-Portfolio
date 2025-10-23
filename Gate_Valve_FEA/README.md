@@ -5,3 +5,6 @@
 **Key Achievements:**  
 - Modeled valve geometry in SolidWorks and performed FEA in ANSYS.  
 - Identified stress concentrations at thin sections and recommended geometry modifications to improve reliability.  
+![Gate_Valve_FEA](Gate_Valve_Model.png)
+![Gate_Valve_FEA](Gate_Valve_Mesh.png)
+![Gate_Valve_FEA](Gate_Valve_FEA.png)
