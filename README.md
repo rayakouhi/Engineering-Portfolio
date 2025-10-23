@@ -4,7 +4,7 @@ I’m a Mechanical Engineering graduate from the University of Toronto with expe
 This portfolio highlights some of my projects in thermal system design, CFD and FEA analysis, and product development.
 
 ## Featured Projects
-- **3D Printer Chamber Temperature Control**  
+- **[3D Printer Chamber Temperature Control](3D_Printer_Thermal_System)**  
   Designed and simulated a controlled heating system using CFD to maintain consistent print quality.
 
 - **Gate Valve FEA Analysis**  
