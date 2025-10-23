@@ -7,7 +7,7 @@
 - Collaborated with a team of four to produce a complete CAD design, including a detailed 3D spindle assembly.  
 
 ![CNC Assembly Design](CNC_Design.png)
-![CNC Assembly Design](CNC_Design.png)
+![CNC Assembly Design](4th_axis_drawing.pdf)
 ![CNC Assembly Design](CNC_Design.png)
 ![CNC Assembly Design](CNC_Design.png)
 ![CNC Assembly Design](CNC_Design.png)
