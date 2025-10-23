@@ -1,2 +1,7 @@
-# Additive Manufacturing Temperature Control System
-Designed a 4-axis CNC milling machine for rapid prototyping. Modeled all components in SolidWorks and collaborated with a team to complete the full CAD design.
+# 3D Printer Chamber Temperature Control System
+
+**Objective:** Design and implement a controlled thermal environment for the Anisoprint Composer A3 FDM printer chamber.  
+
+**Key Achievements:**  
+- Developed a CAD model incorporating thermal management components in SolidWorks.  
+- Performed CFD analysis in ANSYS Fluent to optimize airflow, heat transfer, and thermal uniformity.  
