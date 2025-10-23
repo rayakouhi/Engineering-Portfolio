@@ -17,5 +17,5 @@ This portfolio highlights some of my projects in thermal system design, CFD and 
   Designed a test fixture in Siemens NX to simulate wind loading on composite panels and performed FEA in SimSolid to validate structural performance.
 
 ## Contact
-📧 rayakouhi@gmail.com  
+📧 [rayakouhi@gmail.com](mailto:raya.kouhi@email.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rayakouhi)
