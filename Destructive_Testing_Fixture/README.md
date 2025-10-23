@@ -5,3 +5,4 @@
 **Key Achievements:**  
 - Designed and modeled the test fixture in Siemens NX.  
 - Conducted FEA using SimSolid to identify critical failure points, providing real-world validation for numerical results.  
+![Destructive_Testing_Jig](Destructive_Testing_Fixture.png)
